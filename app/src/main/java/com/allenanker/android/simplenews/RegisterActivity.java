@@ -26,6 +26,8 @@ public class RegisterActivity extends AppCompatActivity {
 
     private Person p2;
 
+    private Person p3;
+
     LoadingDialog ld;
 
     @Override
