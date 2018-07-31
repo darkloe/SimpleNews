@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_politics"
+        android:icon="@drawable/android_icon"
+        android:title="@string/politics"/>
+
+    <item
+        android:id="@+id/navigation_international"
+        android:icon="@drawable/android_icon"
+        android:title="@string/international"/>
+
+    <item
+        android:id="@+id/navigation_finance"
+        android:icon="@drawable/android_icon"
+        android:title="@string/finance"/>
+
+    <item
+        android:id="@+id/navigation_collection"
+        android:icon="@drawable/android_icon"
+        android:title="@string/collection"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/android_icon"
+        android:title="@string/profile"/>
+</menu>
